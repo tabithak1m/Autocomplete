@@ -1,3 +1,5 @@
+// Author: Michael Guerzoy
+
 #if !defined(AUTOCOMPLETE_H)
 #define AUTOCOMPLETE_H
 
